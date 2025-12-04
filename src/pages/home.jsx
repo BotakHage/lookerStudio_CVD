@@ -1,9 +1,6 @@
 export default function Home() {
   return (
     <div>
-      <h1>Welcome to Looker Studio</h1>
-      <p>Your data, visualized.</p>
-
       <iframe
         width="1200"
         height="1100"
